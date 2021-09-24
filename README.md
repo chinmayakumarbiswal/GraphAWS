@@ -1,4 +1,4 @@
-<h1 color="red">ExploitUS</h1>
+<h1 color="red">Graph</h1>
 <h3>It is a Real Time Graph project Using AWS RDS and EC2.</h3>
    <a href="https://api.whatsapp.com/send?phone=919556328216&text=hey">
       <img src="https://exploitus.chinmayakumarbiswal.in/image/whatsapp.png" height="40px" width="40px">
